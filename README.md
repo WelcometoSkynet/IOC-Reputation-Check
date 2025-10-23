@@ -13,7 +13,7 @@ A Python tool for Security Operations Centers (SOC) to automate IOC reputation c
 python ioc_reputation_checker.py --ioc "malicious-domain.com"
 
 # Bulk check from file
-python ioc_reputation_checker.py --file iocs.txt --output report.csv
+python ioc_reputation_checker.py --file iocs.csv --output report.csv
 📋 Supported IOC Types
 IP Addresses: IPv4 addresses
 
