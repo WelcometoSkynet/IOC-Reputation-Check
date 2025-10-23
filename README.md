@@ -14,6 +14,7 @@ python ioc_reputation_checker.py --ioc "malicious-domain.com"
 
 # Bulk check from file
 python ioc_reputation_checker.py --file iocs.csv --output report.csv
+
 📋 Supported IOC Types
 IP Addresses: IPv4 addresses
 
