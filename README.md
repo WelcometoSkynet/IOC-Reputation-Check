@@ -42,4 +42,4 @@ bash
 python ioc_reputation_checker.py --ioc "8.8.8.8"
 
 # Bulk analysis with custom output
-python ioc_reputation_checker.py --file client_iocs.txt --output client_report.csv
+python ioc_reputation_checker.py --file client_iocs.csv --output client_report.csv
