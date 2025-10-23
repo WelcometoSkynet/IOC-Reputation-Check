@@ -9,16 +9,6 @@ A Python tool for Security Operations Centers (SOC) to automate IOC reputation c
 - **Comprehensive Reporting**: Generate detailed CSV reports with risk scoring and blocking recommendations
 - **SOC-Ready**: Built for real-world security operations and client reporting
 
-## 🚀 Quick Start
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/IOC-Reputation-Check.git
-cd IOC-Reputation-Check
-
-# Install dependencies
-pip install -r requirements.txt
-
 # Check single IOC
 python ioc_reputation_checker.py --ioc "malicious-domain.com"
 
